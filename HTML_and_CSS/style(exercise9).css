@@ -1,0 +1,214 @@
+
+body  {
+background-color:silver;
+padding: 200px;
+}
+a {
+padding-top: 20px;
+text-decoration:none;
+}
+img {
+width:500px;
+display: flex;
+margin: auto;
+}
+div {
+margin: auto;
+padding: 20px;
+}
+h1 {border-style: dotted;
+border-color: blue;
+color: Black;
+text-align: center;
+padding: 50px;
+}
+h1.one{
+  border-style: none;
+  padding: 15px;
+  margin: auto;
+
+
+}
+hr {
+text-align: center;
+width: 50%;
+color: silver;
+}
+ul {
+list-style: none;
+text-align: center;
+}
+p.four{square
+    border-radius: 15px;
+    padding: 20px;
+    border: 5px solid green;
+    color: brown
+}
+h3 {
+color:pink;
+text-align: center;
+}
+.flex-container {
+display: flex;
+justify-content: space-around;
+}
+.flex-container2 {
+display: flex;
+justify-content:center;
+
+}
+p.two{
+border-style: solid;
+border-color: green;
+color:brown;
+font-size: 20px;
+padding:20px;
+width: 200px;
+
+}
+.flex-item {
+padding: 20px;
+border: solid yellow 5px;
+height: 600px;
+
+}
+.flex-item{
+padding: 20px;
+border: 5px solid yellow;
+
+}
+.flex-container3 {
+  flex-direction: row;
+  display: flex;
+  justify-content:flex-start;
+  width: 800px;
+  padding: 20px;
+}
+p.three {
+border-style: solid;
+border-color: green;
+color:brown;
+font-size: 20px;
+padding: 10px;
+}
+.flex-item4 {
+border: 5px solid yellow;
+padding: 20px;
+height: 1795px;
+}
+.flex-item5 {
+border: 5px solid yellow;
+padding: 15px;
+}
+p.six{
+border-style: solid;
+border-color: green;
+color:brown;
+font-size: 20px;
+padding:20px;
+}
+li {
+margin:5px;
+}
+.flex-container-activism{
+  display:flex;
+  height: 300px;
+  width: 800px;
+  background-color: blue;
+  justify-content: center;
+}
+
+.flex-item-activism-1{
+  align-self: flex-start;
+  background-color: brown;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  margin: 10px;
+}
+.flex-item-activism-2{
+  align-self: center;
+  background-color: brown;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  margin: 10px;
+}
+.flex-item-activism-3{
+  align-self: flex-end;
+  background-color: brown;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  margin: 10px;
+}
+.flex-container4{
+     justify-content: center;
+}
+.logoImg{
+  width: 100px;
+  padding: 12px;
+  margin: 0px;
+
+
+}
+.flex-container-ul-top {
+display: flex;
+height: 50px;
+}
+.flex-item-1-header{
+  background-color: white;
+  color: white;
+  padding: 21px;
+
+
+}
+.flex-item-2-header {
+    background-color: pink;
+    height: 50px;
+
+
+}
+.flex-item-3-header{
+  background-color: greenyellow;
+  height: 50px;
+  flex: 3;
+
+}
+.flex-container-header{
+  display: flex;
+  position: fixed;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  padding: 0px;
+  line-height: 10px;
+}
+.flex-container-footer{
+  background-color: pink;
+  position: fixed;
+  width: 100%;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  padding: 0px;
+}
+.flex-container-empathy{
+display: flex;
+}
+.flex-item-1-empathy{
+font-size: 15px;
+margin: 10px;
+}
+.flex-item-2-empathy{
+  text-align: center;
+  margin: 10px;
+
+  }
+p.seven{
+  font-size: 20px;
+  color: brown;
+  border-style: solid;
+  border-color: green;
+  padding: 15px;
+}
